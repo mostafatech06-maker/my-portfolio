@@ -214,6 +214,77 @@ section {
 }
 
 
+.project-brief{
+  font-size: 16px;
+  color: black;
+  text-align: left;
+  margin-left: 18px;
+  font-weight: 600;
+  margin-top: 10px;
+  margin-bottom: 8px;
+}
+
+
+.more-details{
+  text-decoration: none;
+  color: rgb(6, 124, 235);
+  font-weight: 800;
+  font-size: 16px;
+  transition: 0.7s ease
+}
+
+
+.more-details:hover{
+  color: rgb(32, 29, 221);
+}
+
+
+.contact .icon{
+  font-size: 4.5em
+}
+
+
+.contact .info h3{
+  color:  #000;
+}
+
+
+.contact .info p {
+  font-size: 1,5em;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
